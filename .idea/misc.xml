@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/background_note_color_2.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/background_note_color_3.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/background_note_color_4.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/background_note_color_5.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/background_note_color_6.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/background_note_color_7.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_add_buttun.xml" value="0.271" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_dialog.xml" value="0.123" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_done_button.xml" value="0.271" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_misscellaneous.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_note.xml" value="0.2855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_note_color_1.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_note_color_5.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_note_color_6.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_note_color_7.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_note_color_8.xml" value="0.1855" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_search.xml" value="0.2325" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/background_subtitle_indicator.xml" value="0.2975" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/gradient.xml" value="0.1115" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/gradient_add.xml" value="0.1335" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_add.xml" value="0.1405" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_add_outline.xml" value="0.1405" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_back.xml" value="0.1405" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_delete.xml" value="0.1755" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_done.xml" value="0.1405" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_image.xml" value="0.271" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2325" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_notebook__1_.xml" value="0.1" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_options.xml" value="0.1535" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_search.xml" value="0.1405" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_web_link.xml" value="0.1405" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/top_gradient.xml" value="0.1115" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/font/ubuntu_bold.xml" value="0.2965811965811966" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_create_note.xml" value="0.25" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/layout/item_container_note.xml" value="0.264" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/layout/layout_delete_note.xml" value="0.264" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22" />
+        <entry key="..\:/Users/CheezWhizXD/AndroidStudioProjects/NoteApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
